@@ -1,0 +1,4 @@
+{
+    "./monitored_files/passwd_mock.txt": "e787b373a74594b33b77892a903647d7a6cf519d427a0b0790e11be4482696e0",
+    "./monitored_files/ssh_config.txt": "e807422bad84e7926a98fb262153b3d9c84244080e69b0e5d20446c183ffafc4"
+}
